@@ -1,2 +1,2 @@
-# aula-botstrap
+# aula-bootstrap
 utilizando o bootstrap
