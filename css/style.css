@@ -1,0 +1,28 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color:#ad09e8;
+}
+
+
+.quem-somos{
+    background-color: aqua;
+    color:rgb(236, 89, 55);
+}
+
+.margin{
+   padding-top: 30px; 
+   padding-bottom: 50px;
+}
+
+.lançamentos{
+background-color: rgb(77, 45, 61);
+color: aqua;
+}
+
+.bg-footer{
+    background-color: rgb(12, 17, 15);
+    color:bisque;
+}
